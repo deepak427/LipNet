@@ -1,17 +1,15 @@
-# Image Classifier
-## Deep image classifier for happy/sad classification
+# LipNet
+## Deep neural network for visual speech recognition. 
 
-This deep image classifier is a convolutional neural network for classifying images of sad and happy people from a given image.
+This deep neural network can recognize speech by the movements of the lips of a person.
 
 ## Tech
 
-This deep image classifier uses a number of ML modules to work properly:
+This deep neural network uses a number of ML modules to work properly:
 
 - tensorflow
 - numpy
 - matplotlib
-- imghdr
-- cv2
 
 ## Installation
 
